@@ -1,0 +1,18 @@
+Create the table called myusers
+---------------------------------------------
+
+create database myjlcbsDB;
+
+create table myusers(
+userId int auto_increment primary key,
+fullName char(15),
+email char(15),
+phone long,
+dob char(12),
+gender char(12),
+username char(10),
+password char(10),
+status char(10)
+);
+
+INSERT INTO myusers VALUES (201, 'Rakesh','r@jlc',984984,'17-10','male','irakesh','R@123','Active');

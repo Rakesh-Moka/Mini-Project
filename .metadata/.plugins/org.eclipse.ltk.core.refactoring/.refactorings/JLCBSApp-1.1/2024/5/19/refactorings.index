@@ -1,0 +1,24 @@
+1714986895802	Rename package 'com.jlcindia.bookstore.servlets'
+1714988972689	Copy package
+1714988986607	Delete elements
+1714989084167	Rename type 'ChangePWServlet'
+1714989102292	Rename type 'ForgotPWServlet'
+1714989137168	Rename type 'JLCBaseServlet'
+1714989156484	Rename type 'LoginServlet'
+1714989170535	Rename type 'LogoutServlet'
+1714989188213	Rename type 'RegisterServlet'
+1714989198049	Rename type 'UpdateProfileServlet'
+1714990309312	Rename compilation unit 'JLCBookStoreServlet.java'
+1714990949227	Rename type 'JLCControllerServlet'
+1714991117995	Copy compilation units
+1714991127508	Delete elements
+1714991160732	Copy compilation units
+1714991164744	Delete element
+1714992046186	Delete element
+1714993194057	Rename package 'com.jlcindia.bookstore.service'
+1714993208638	Rename package 'com.jlcindia.bookstore.dao'
+1714993389948	Delete element
+1714993463025	Copy compilation unit
+1714993471351	Delete element
+1714993833084	Delete element
+1714994565626	Rename type 'UserTo'

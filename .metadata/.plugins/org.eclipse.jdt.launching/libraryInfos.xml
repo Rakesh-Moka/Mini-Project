@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="E:\JDK1.8.0" version="1.8.0_202">
+        <bootpath>
+            <entry path="E:\JDK1.8.0\jre\lib\resources.jar"/>
+            <entry path="E:\JDK1.8.0\jre\lib\rt.jar"/>
+            <entry path="E:\JDK1.8.0\jre\lib\sunrsasign.jar"/>
+            <entry path="E:\JDK1.8.0\jre\lib\jsse.jar"/>
+            <entry path="E:\JDK1.8.0\jre\lib\jce.jar"/>
+            <entry path="E:\JDK1.8.0\jre\lib\charsets.jar"/>
+            <entry path="E:\JDK1.8.0\jre\lib\jfr.jar"/>
+            <entry path="E:\JDK1.8.0\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\JDK1.8.0\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\JDK1.8.0\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="E:\jdk1.8.0_202" version="1.8.0_202">
+        <bootpath>
+            <entry path="E:\jdk1.8.0_202\jre\lib\resources.jar"/>
+            <entry path="E:\jdk1.8.0_202\jre\lib\rt.jar"/>
+            <entry path="E:\jdk1.8.0_202\jre\lib\sunrsasign.jar"/>
+            <entry path="E:\jdk1.8.0_202\jre\lib\jsse.jar"/>
+            <entry path="E:\jdk1.8.0_202\jre\lib\jce.jar"/>
+            <entry path="E:\jdk1.8.0_202\jre\lib\charsets.jar"/>
+            <entry path="E:\jdk1.8.0_202\jre\lib\jfr.jar"/>
+            <entry path="E:\jdk1.8.0_202\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="E:\jdk1.8.0_202\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="E:\jdk1.8.0_202\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="E:\Installations\Eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143" version="17.0.10"/>
+    <libraryInfo home="C:\Program Files\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933" version="17.0.5"/>
+</libraryInfos>
